@@ -1,0 +1,70 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "Smartphone",
+            "price": "399.99",
+            "imgurl": "https://images.unsplash.com/photo-1598327105666-5b89351aff97?q=80&w=1854&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "id": 2,
+            "name": "Laptop",
+            "price": "899.99",
+            "imgurl": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?q=80&w=2072&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "id": 3,
+            "name": "Wireless headphone",
+            "price": "59.99",
+            "imgurl": "https://images.unsplash.com/photo-1590658268037-6bf12165a8df?q=80&w=1932&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "id": 4,
+            "name": "TV",
+            "price": "799.99",
+            "imgurl": "https://images.unsplash.com/photo-1558888401-3cc1de77652d?q=80&w=1964&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "id": 5,
+            "name": "Fitness tracker",
+            "price": "129.99",
+            "imgurl": "https://images.unsplash.com/photo-1576243345690-4e4b79b63288?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        },
+        {
+            "id": 6,
+            "name": "Kitchen machine",
+            "price": "249.99",
+            "imgurl": "https://media.istockphoto.com/id/1292272977/hu/fot%C3%B3/nyitott-fekete-elektromos-%C3%A1llv%C3%A1nykever%C5%91-egy-asztalon-a-konyh%C3%A1ban-feh%C3%A9r-kr%C3%A9mmel.jpg?s=2048x2048&w=is&k=20&c=8kiVZfOakfWKRCaqbuCVZATZ28z4JNUlBCTB8PQ6jO8="
+        },
+        {
+            "id": 7,
+            "name": "Blender",
+            "price": "79.99",
+            "imgurl": "https://media.istockphoto.com/id/1322052001/hu/fot%C3%B3/turmixg%C3%A9p-a-konyhai-munkalapon.jpg?s=2048x2048&w=is&k=20&c=iydPbYmBDiinDzNcAUo4tQbsfnL4MKtRhcXlN6U87qI="
+        },
+        {
+            "id": 8,
+            "name": "Drone with camera",
+            "price": "499.99",
+            "imgurl": "https://media.istockphoto.com/id/492683865/hu/fot%C3%B3/drone-feh%C3%A9r-felh%C5%91s-alkonyat-%C3%A9g.jpg?s=2048x2048&w=is&k=20&c=Hp8RO8S15mepqJ5MRF4ZMR7uLTHxrQWFrKhJQOI4boI="
+        },
+        {
+            "id": 9,
+            "name": "Waterproof sportcamera",
+            "price": "179.99",
+            "imgurl": "https://media.istockphoto.com/id/504339813/hu/fot%C3%B3/v%C3%ADz-alatti-m%C5%B1anyag-v%C3%ADz%C3%A1ll%C3%B3-tok-akci%C3%B3kamer%C3%A1hoz.jpg?s=612x612&w=0&k=20&c=ndGtOTG_qjxgxqnu2Aw9a8UE8F4pNJqu-KcsJC8DD84="
+        },
+        {
+            "id": 10,
+            "name": "Smart system",
+            "price": "359.99",
+            "imgurl": "https://media.istockphoto.com/id/811765334/hu/fot%C3%B3/digit%C3%A1lis-k%C3%A9perny%C5%91-az-intelligens-otthonban.jpg?s=612x612&w=0&k=20&c=fouQqqddSc4ja0oqKHaysIvRIAP8xgWN_yNHm8dH7u4="
+        },
+        {
+            "id": 11,
+            "name": "adsd0",
+            "price": "dss",
+            "imgurl": "ds"
+        }
+    ]
+}
